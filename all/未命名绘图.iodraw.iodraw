@@ -32,7 +32,7 @@
         <mxCell id="gMd4FzQw3yM_iWt_UaO9-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="gMd4FzQw3yM_iWt_UaO9-1">
           <mxGeometry x="45" y="40" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gMd4FzQw3yM_iWt_UaO9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="gMd4FzQw3yM_iWt_UaO9-0">
+        <mxCell id="gMd4FzQw3yM_iWt_UaO9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gMd4FzQw3yM_iWt_UaO9-19" target="gMd4FzQw3yM_iWt_UaO9-0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="360" as="sourcePoint" />
           </mxGeometry>
@@ -53,11 +53,6 @@
         </mxCell>
         <mxCell id="gMd4FzQw3yM_iWt_UaO9-16" value="取款" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="485" y="508" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="gMd4FzQw3yM_iWt_UaO9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gMd4FzQw3yM_iWt_UaO9-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80" y="360" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="gMd4FzQw3yM_iWt_UaO9-19" value="储户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="370" width="120" height="60" as="geometry" />
