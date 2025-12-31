@@ -4,8 +4,14 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="gMd4FzQw3yM_iWt_UaO9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gMd4FzQw3yM_iWt_UaO9-0" target="gMd4FzQw3yM_iWt_UaO9-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gMd4FzQw3yM_iWt_UaO9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gMd4FzQw3yM_iWt_UaO9-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="445" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="305" y="465" />
+              <mxPoint x="80" y="465" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gMd4FzQw3yM_iWt_UaO9-8" value="不合格" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gMd4FzQw3yM_iWt_UaO9-7">
           <mxGeometry x="0.0148" y="-2" relative="1" as="geometry">
