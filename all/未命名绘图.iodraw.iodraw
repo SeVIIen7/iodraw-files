@@ -47,6 +47,12 @@
         <mxCell id="gMd4FzQw3yM_iWt_UaO9-10" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="480" width="140" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="gMd4FzQw3yM_iWt_UaO9-13" value="分类处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="385" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gMd4FzQw3yM_iWt_UaO9-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gMd4FzQw3yM_iWt_UaO9-2" target="gMd4FzQw3yM_iWt_UaO9-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
