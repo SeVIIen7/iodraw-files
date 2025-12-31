@@ -26,6 +26,17 @@
         <mxCell id="gMd4FzQw3yM_iWt_UaO9-2" value="分类处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="gMd4FzQw3yM_iWt_UaO9-0">
           <mxGeometry x="30" y="30" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gMd4FzQw3yM_iWt_UaO9-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gMd4FzQw3yM_iWt_UaO9-1" target="gMd4FzQw3yM_iWt_UaO9-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gMd4FzQw3yM_iWt_UaO9-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gMd4FzQw3yM_iWt_UaO9-1" target="gMd4FzQw3yM_iWt_UaO9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gMd4FzQw3yM_iWt_UaO9-27" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gMd4FzQw3yM_iWt_UaO9-26">
+          <mxGeometry x="0.0977" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gMd4FzQw3yM_iWt_UaO9-1" value="p01" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="350" width="140" height="100" as="geometry" />
         </mxCell>
