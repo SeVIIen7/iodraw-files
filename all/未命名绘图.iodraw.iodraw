@@ -50,6 +50,9 @@
         <mxCell id="gMd4FzQw3yM_iWt_UaO9-15" value="存款" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="485" y="258" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gMd4FzQw3yM_iWt_UaO9-16" value="取款" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="485" y="508" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
