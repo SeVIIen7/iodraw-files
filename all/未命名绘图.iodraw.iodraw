@@ -36,10 +36,10 @@
           <mxGeometry x="40" y="360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gMd4FzQw3yM_iWt_UaO9-9" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="230" width="140" height="90" as="geometry" />
+          <mxGeometry x="440" y="230" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="gMd4FzQw3yM_iWt_UaO9-10" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="590" width="140" height="90" as="geometry" />
+          <mxGeometry x="440" y="440" width="140" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
