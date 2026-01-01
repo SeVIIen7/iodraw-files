@@ -16,6 +16,9 @@
         <mxCell id="qby1FDMo_610l3ejaF7P-1" value="不合格存折" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="380" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="qby1FDMo_610l3ejaF7P-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qby1FDMo_610l3ejaF7P-2" target="qby1FDMo_610l3ejaF7P-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qby1FDMo_610l3ejaF7P-2" value="存折，存（取）款单" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="620" width="120" height="80" as="geometry" />
         </mxCell>
