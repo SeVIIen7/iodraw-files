@@ -66,7 +66,7 @@
         <mxCell id="qby1FDMo_610l3ejaF7P-23" value="取出底账登记" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="670" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qby1FDMo_610l3ejaF7P-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="qby1FDMo_610l3ejaF7P-24" value="取出底账及现金" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="670" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
