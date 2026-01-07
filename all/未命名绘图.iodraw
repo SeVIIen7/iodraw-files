@@ -105,6 +105,9 @@
         <mxCell id="KN2sooN6IO1pu6JWduOr-15" value="存款单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KN2sooN6IO1pu6JWduOr-14">
           <mxGeometry x="40" y="40" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KN2sooN6IO1pu6JWduOr-16" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="645" y="535" width="120" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
