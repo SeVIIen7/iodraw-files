@@ -99,8 +99,11 @@
         <mxCell id="KN2sooN6IO1pu6JWduOr-13" value="底账" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="675" y="388" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KN2sooN6IO1pu6JWduOr-14" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="630" y="100" width="200" height="200" as="geometry" />
+        <mxCell id="KN2sooN6IO1pu6JWduOr-14" value="F1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="100" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KN2sooN6IO1pu6JWduOr-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="655" y="138" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
