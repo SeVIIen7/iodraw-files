@@ -81,8 +81,8 @@
         <mxCell id="gMd4FzQw3yM_iWt_UaO9-15" value="存款" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="KN2sooN6IO1pu6JWduOr-5" vertex="1">
           <mxGeometry x="45" y="48" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KN2sooN6IO1pu6JWduOr-8" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="485" width="140" height="95" as="geometry" />
+        <mxCell id="KN2sooN6IO1pu6JWduOr-8" value="P1" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="490" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="gMd4FzQw3yM_iWt_UaO9-16" value="取款" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="KN2sooN6IO1pu6JWduOr-8" vertex="1">
           <mxGeometry x="40" y="32.5" width="60" height="30" as="geometry" />
