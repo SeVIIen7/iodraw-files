@@ -83,17 +83,8 @@
         <mxCell id="KN2sooN6IO1pu6JWduOr-0" value="储户" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="360" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KN2sooN6IO1pu6JWduOr-1" value="p2" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="340" width="140" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="KN2sooN6IO1pu6JWduOr-2" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="KN2sooN6IO1pu6JWduOr-1">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KN2sooN6IO1pu6JWduOr-3" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="KN2sooN6IO1pu6JWduOr-1">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KN2sooN6IO1pu6JWduOr-4" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="KN2sooN6IO1pu6JWduOr-1">
-          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        <mxCell id="KN2sooN6IO1pu6JWduOr-5" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="338" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
