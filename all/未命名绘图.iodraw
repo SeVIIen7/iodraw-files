@@ -90,6 +90,9 @@
         <mxCell id="KN2sooN6IO1pu6JWduOr-5" value="P2" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="210" width="150" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="KN2sooN6IO1pu6JWduOr-8" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="485" width="140" height="95" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
