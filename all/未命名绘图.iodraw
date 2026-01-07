@@ -64,7 +64,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gMd4FzQw3yM_iWt_UaO9-9" value="P2" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=23;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="440" y="230" width="140" height="90" as="geometry" />
+          <mxGeometry x="440" y="230" width="140" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="KN2sooN6IO1pu6JWduOr-5" value="P2" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="gMd4FzQw3yM_iWt_UaO9-9">
+          <mxGeometry width="140" height="92" as="geometry" />
         </mxCell>
         <mxCell id="gMd4FzQw3yM_iWt_UaO9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gMd4FzQw3yM_iWt_UaO9-10" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -82,9 +85,6 @@
         </mxCell>
         <mxCell id="KN2sooN6IO1pu6JWduOr-0" value="储户" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="360" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="KN2sooN6IO1pu6JWduOr-5" value="P2" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="338" width="140" height="92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
