@@ -99,6 +99,17 @@
         <mxCell id="KN2sooN6IO1pu6JWduOr-13" value="底账" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="675" y="388" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="zlT9EU7hXgSKP27Kg7nM-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="750" as="sourcePoint" />
+            <mxPoint x="630" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="750" />
+              <mxPoint x="690" y="740" />
+              <mxPoint x="580" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
