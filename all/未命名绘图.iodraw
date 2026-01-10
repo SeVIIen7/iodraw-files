@@ -99,6 +99,9 @@
         <mxCell id="KN2sooN6IO1pu6JWduOr-13" value="底账" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="675" y="388" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="zlT9EU7hXgSKP27Kg7nM-0" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="610" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
